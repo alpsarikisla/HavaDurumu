@@ -1,0 +1,7 @@
+C:\Users\Alp\source\repos\KosulUygulamalari\KosulUygulamalari\bin\Debug\KosulUygulamalari.exe.config
+C:\Users\Alp\source\repos\KosulUygulamalari\KosulUygulamalari\bin\Debug\KosulUygulamalari.exe
+C:\Users\Alp\source\repos\KosulUygulamalari\KosulUygulamalari\bin\Debug\KosulUygulamalari.pdb
+C:\Users\Alp\source\repos\KosulUygulamalari\KosulUygulamalari\obj\Debug\KosulUygulamalari.csproj.AssemblyReference.cache
+C:\Users\Alp\source\repos\KosulUygulamalari\KosulUygulamalari\obj\Debug\KosulUygulamalari.csproj.CoreCompileInputs.cache
+C:\Users\Alp\source\repos\KosulUygulamalari\KosulUygulamalari\obj\Debug\KosulUygulamalari.exe
+C:\Users\Alp\source\repos\KosulUygulamalari\KosulUygulamalari\obj\Debug\KosulUygulamalari.pdb
